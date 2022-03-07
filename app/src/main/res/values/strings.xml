@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextEncryptor</string>
+    <string name="s0">Enter text/key</string>
+    <string name="s1">Enter password</string>
+    <string name="s2">Encrypt</string>
+    <string name="s3">Decrypt</string>
+</resources>

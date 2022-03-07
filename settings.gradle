@@ -1,0 +1,3 @@
+rootProject.name = "TextEncryptor"
+include ':app'
+include ':textencryptor_lib'

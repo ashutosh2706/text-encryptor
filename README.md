@@ -23,7 +23,7 @@ allprojects {
 
 ```gradle
 dependencies {
-	implementation 'com.github.ashutosh2706:text-encryptor:1.0.0'
+	implementation 'com.github.ashutosh2706:text-encryptor:1.0.1'
 }
 ```
 

@@ -62,7 +62,7 @@ Encryptor.encrypt("some message","your password");
 Encryptor.decrypt(key,"password");
 ```
 
-key is the string output of Encryptor.encrypt(.......);
+key is the return string of Encryptor.encrypt();
 
 
 
